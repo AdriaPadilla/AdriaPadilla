@@ -10,10 +10,10 @@ Specialized in data extraction and analysis with Python, oriented to the field o
 - 💩 My "personal" [Twitter profile](https://twitter.com/adriapadilla)
 
 ### Quick links to data extraction repos (low level software)
-- Twitter: [Twitter API V2 Full Archive Search for Academics](https://github.com/AdriaPadilla/Twitter-API-V2-full-archive-Search-academics)
-- Instragram: [Instaloader Aux Scripts](https://github.com/AdriaPadilla/InstaloaderScripts)
-- YouTube: [Search Results Evolution](https://github.com/AdriaPadilla/youtube_search_results)
-- Spotify: [Spotify Related Artists/tracks from Playlist] (https://github.com/AdriaPadilla/spotixplore)
+- **Twitter**: [Twitter API V2 Full Archive Search for Academics](https://github.com/AdriaPadilla/Twitter-API-V2-full-archive-Search-academics)
+- **Instragram**: [Instaloader Aux Scripts](https://github.com/AdriaPadilla/InstaloaderScripts)
+- **YouTube**: [Search Results Evolution](https://github.com/AdriaPadilla/youtube_search_results)
+- **Spotify**: [Spotify Related Artists/tracks from Playlist](https://github.com/AdriaPadilla/spotixplore)
 
 ### Quick link for students 
 - 🕸 [Anàlisi i visualització de Big Data (UAB)](https://adriapadilla.github.io/bigdata-uab/)
