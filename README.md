@@ -17,6 +17,3 @@ Specialized in data extraction and analysis oriented to the field of social scie
 - **Instragram**: [Instaloader Aux Scripts](https://github.com/AdriaPadilla/InstaloaderScripts)
 - **YouTube**: [Search Results Evolution](https://github.com/AdriaPadilla/youtube_search_results)
 - **Spotify**: [Spotify Related Artists/tracks from Playlist](https://github.com/AdriaPadilla/spotixplore)
-
-### Quick link for students 
-- 🕸 [Anàlisi i visualització de Big Data (UAB)](https://adriapadilla.github.io/bigdata-uab/)
