@@ -16,4 +16,4 @@ Specialized in data extraction and analysis oriented to the field of social scie
 - **Twitter**: [Twitter API V2 Full Archive Search for Academics](https://github.com/AdriaPadilla/Twitter-API-V2-full-archive-Search-academics)
 - **Instragram**: [Instaloader Aux Scripts](https://github.com/AdriaPadilla/InstaloaderScripts)
 - **YouTube**: [Search Results Evolution](https://github.com/AdriaPadilla/youtube_search_results)
-- **Spotify**: [Spotify Related Artists/tracks from Playlist](https://github.com/AdriaPadilla/spotixplore)
+- **Spotify**: [Spotify Related Artists/tracks from Playlist]((https://github.com/AdriaPadilla/spotify_playlists_to_excel))
